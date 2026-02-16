@@ -3,7 +3,7 @@
 This repository contains the source code and experimental results for a Mixed-Integer Linear Programming (MILP)-based collision avoidance model designed for commercial aircraft formations. The proposed model ensures safe navigation while minimizing formation synergy loss, maneuver complexity, and avoidance time.
 
 This work supports the experiments and methodology presented in the paper:  
-**"Optimized Collision Avoidance Strategies for Commercial Aircraft Formations"**
+**"Impact of Formation Size, Geometry, and Role Assignment on Collision-Avoidance Performance of Commercial Aircraft Formations"**
 
 ---
 
@@ -76,6 +76,8 @@ Each experiment result corresponds to a dedicated folder. Naming conventions are
 - Example:  
   `e4f2d45f.pdf` → 2 aircraft, 45° intruder, **f** = free leader, **s** = solid (fixed) leader.
 
+### `2S20D/` – vertical-only solutions
+- Lateral maneuver is forbidden.
 ---
 
 ## 📦 Output and Visualization
