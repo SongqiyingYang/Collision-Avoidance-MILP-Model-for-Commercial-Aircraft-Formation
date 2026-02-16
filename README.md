@@ -1,4 +1,4 @@
-# Commercial-Aircraft-Collision-Resolution
+# Commercial-Aircraft-Collision-Avoidance-Model
 
 This repository contains the source code and experimental results for a Mixed-Integer Linear Programming (MILP)-based collision avoidance model designed for commercial aircraft formations. The proposed model ensures safe navigation while minimizing formation synergy loss, maneuver complexity, and avoidance time.
 
